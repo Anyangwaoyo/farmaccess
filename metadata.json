@@ -1,0 +1,6 @@
+{
+  "name": "FarmAccess",
+  "description": "Agricultural mechanisation and service-booking platform for smallholder farmers in Nigeria. Farm services, within reach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
